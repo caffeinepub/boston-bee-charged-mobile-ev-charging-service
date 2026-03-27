@@ -1,0 +1,15 @@
+{
+  "frontend/src/App.tsx": "Main application component with React Query and TanStack Router setup, providing routing between home, schedule, and appointments pages with theme provider and toast notifications.",
+  "frontend/src/components/Header.tsx": "Responsive header with logo, navigation links, authentication button, theme toggle, and mobile menu for the Boston Bee Charged website.",
+  "frontend/src/components/Footer.tsx": "Footer component displaying brand information, contact details, service hours, and caffeine.ai attribution with heart icon.",
+  "frontend/src/components/ThemeToggle.tsx": "Theme switcher component using dropdown menu to toggle between light, dark, and system themes with sun/moon icons.",
+  "frontend/src/components/LogoGallery.tsx": "Main gallery component displaying four logo design styles in tabs with variations, full logos, and design notes.",
+  "frontend/src/components/LogoCard.tsx": "Reusable card component for displaying individual logo variations with preview, zoom, and download functionality.",
+  "frontend/src/hooks/useQueries.ts": "React Query hooks for all backend operations including user profile management, appointment creation/retrieval, service area info, pricing, and business information.",
+  "frontend/src/index.css": "Global styles with OKLCH color system featuring electric yellow/gold primary colors and vibrant orange accents for the EV charging brand theme.",
+  "frontend/src/components/Layout.tsx": "Layout wrapper component that renders the header, footer, and page outlet with profile setup modal for authenticated users.",
+  "frontend/src/components/ProfileSetupModal.tsx": "Modal dialog that prompts authenticated users without a profile to complete their name, phone, and email information before booking appointments.",
+  "frontend/src/pages/HomePage.tsx": "Homepage featuring hero section with CTA, features grid showcasing service benefits, how-it-works section, and final call-to-action for scheduling appointments.",
+  "frontend/src/pages/SchedulePage.tsx": "Appointment scheduling page with form for location, vehicle type, battery capacity, date/time selection, and dynamic price display based on selections.",
+  "frontend/src/pages/MyAppointmentsPage.tsx": "User appointments dashboard displaying all scheduled charging appointments with status badges, location, vehicle details, and booking information."
+}
