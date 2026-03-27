@@ -235,7 +235,7 @@ actor {
       name = "Boston Bee Charged";
       phone = "888-675-9555";
       email = "bostonbeecharged@gmail.com";
-      address = "123 Main St, Boston, MA";
+      address = "Boston, MA";
       hours = "Mon-Fri 8am-8pm";
     };
   };
